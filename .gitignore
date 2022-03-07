@@ -1,4 +1,4 @@
-# Ignore weekly labs
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
