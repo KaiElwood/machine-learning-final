@@ -1,4 +1,7 @@
-# Ignore weekly labs
+config.py
+# Ignore data files
+*.csv
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
