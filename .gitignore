@@ -2,6 +2,10 @@ config.py
 # Ignore data files
 *.csv
 *.xlsx
+*.geojson
+*.zip
+nyc_mappluto_21v4_shp/
+nyc_pluto_21v4_csv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
