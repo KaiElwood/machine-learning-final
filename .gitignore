@@ -11,6 +11,7 @@ config.py
 *.pdf
 
 qgis/
+_archive/
 
 nyc_mappluto_21v4_shp/
 nyc_pluto_21v4_csv/
