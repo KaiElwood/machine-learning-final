@@ -7,9 +7,6 @@ config.py
 *.zip
 *.ini
 
-*.png
-*.pdf
-
 nyc_mappluto_21v4_shp/
 nyc_pluto_21v4_csv/
 
