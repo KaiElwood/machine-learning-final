@@ -13,6 +13,7 @@
 # limitations under the License.
 
 # [START sheets_quickstart]
+#!/opt/homebrew/anaconda3/envs/geo_env/bin/python
 from __future__ import print_function
 
 import os.path
