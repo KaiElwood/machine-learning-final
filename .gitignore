@@ -10,6 +10,8 @@ config.py
 *.png
 *.pdf
 
+qgis/
+
 nyc_mappluto_21v4_shp/
 nyc_pluto_21v4_csv/
 

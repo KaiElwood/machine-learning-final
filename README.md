@@ -29,9 +29,18 @@ The order to run the scripts is
 1. [Building level dataset](code/01_merge_bbl.ipynb)
 2. [Alarm box level dataset](code/02_merge_box.ipynb)
 
-## c) Analyisis
+## c) Analysis Building Level
 
-1. [Random forest]
-2. [Bayes Net]
+1. [Random forest](code/03a_rf_bayesnet_bbl.ipynb)
+2. [Bayes Net](code/03a_rf_bayesnet_bbl.ipynb)
 3. [Cluster analysis]
-4. [Naive bayes and Gaussian processes](code/04b_analysis_naivebayes_gaussianprocess.ipynb)
+4. [Naive bayes](code/04b_analysis_naivebayes_gaussianprocess.ipynb)
+5. [Gaussian processes](code/04b_analysis_naivebayes_gaussianprocess.ipynb)
+
+## 2) Analysis Alarm Box Level
+
+1. [Random forest](code/04a_rf_bayesnet_box.ipynb)
+2. [Bayes Net](code/04a_rf_bayesnet_box.ipynb)
+3. [Cluster analysis]
+4. [Naive bayes](code/04b_analysis_naivebayes_gaussianprocess.ipynb)
+5. [Gaussian processes](code/04b_analysis_naivebayes_gaussianprocess.ipynb)
