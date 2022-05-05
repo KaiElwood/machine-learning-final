@@ -1,5 +1,6 @@
 client_secrets.json
 config.py
+!code/num_fire_ev_dt_bbl_5.pdf
 # Ignore data files
 *.csv
 *.xlsx
