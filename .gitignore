@@ -1,6 +1,7 @@
 client_secrets.json
 config.py
 !code/plots/num_fire_ev_dt_bbl_5.pdf
+
 # Ignore data files
 *.csv
 *.xlsx
