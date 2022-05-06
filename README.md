@@ -1,8 +1,8 @@
 # Machine Learning for Cities Final Project
 
-The purpose of this repository is to keep all materials used in developing the class project for Machine Learning for Cities course
+The purpose of this repository is to keep all materials used in developing the final class project for Spring 2022 Machine Learning for Cities course.
 
-The report that corresponds to this analysis is available to those with an NYU email address [here](https://docs.google.com/document/d/1ffmuZ-yaQZHssITyP29HzoVuPaP2BKjKBC8_6fk5eyw/edit?usp=sharing)
+The report that corresponds to this analysis is available to those with an NYU email address [here](https://docs.google.com/document/d/1ffmuZ-yaQZHssITyP29HzoVuPaP2BKjKBC8_6fk5eyw/edit?usp=sharing).
 
 The Project Team:
 * Ariadne Rivera
