@@ -47,5 +47,5 @@ This code merges fire alarm box with census tract data with other databases.
 4. [SVM](code/05_SVMs.ipynb)
 5. [Naive bayes](code/03b_naivebayes_gp_bbl.ipynb)
 
-* This [program](05a_pr_prob_box.ipynb) generated maps at the alarm box level.
-* This [program](05a_pr_prob_bbl.ipynb) generated maps at the building level.
+* This [program](code/05a_pr_prob_box.ipynb) generated maps at the alarm box level.
+* This [program](code/05a_pr_prob_bbl.ipynb) generated maps at the building level.
