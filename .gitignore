@@ -1,5 +1,6 @@
 client_secrets.json
 config.py
+
 # Ignore data files
 *.csv
 *.xlsx
@@ -9,6 +10,7 @@ config.py
 
 *.png
 *.pdf
+!num_fire_ev_dt_bbl_5.pdf
 
 qgis/
 _archive/
