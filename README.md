@@ -14,9 +14,9 @@ The objective:
 * Identify neighborhood and built environment characteristics linked to structural fires in residential buildings
 * Accurately predict where fires might occur in NYC 
 
-A description of the repository and the order to run the scripts.
+# A description of the repository and the order to run the scripts.
 
-### a) Data preparation
+## a) Data preparation
 
 1. [Calculate catchment area for the proportion of census tract each alarm box serves](code/00a_calculate_catchment.ipynb)
 2. [Process building data PLUTO](code/00b_data_processing.ipynb)
