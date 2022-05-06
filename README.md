@@ -14,7 +14,7 @@ The objective:
 * Identify neighborhood and built environment characteristics linked to structural fires in residential buildings
 * Accurately predict where fires might occur in NYC 
 
-# A description of the repository and the order to run the scripts.
+# Repository structure
 
 ## a) Data preparation
 
