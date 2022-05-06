@@ -43,7 +43,7 @@ This code merges fire alarm box with census tract data with other databases.
 ## d) Analysis Building Level
 1. [Decision tree and random forest](code/03a_rf_bayesnet_bbl.ipynb)
 2. [Bayes Net](code/03a_rf_bayesnet_bbl.ipynb)
-3. [Cluster analysis](code/06b K-Means EM - BBL.ipynb)
+3. [Cluster analysis](code/06b%20K-Means%20EM%20-%20BBL.ipynb)
 4. [SVM](code/05_SVMs.ipynb)
 5. [Naive bayes](code/03b_naivebayes_gp_bbl.ipynb)
 
